@@ -1,0 +1,9 @@
+.activeBtn {
+  color: blue;
+  border-bottom: 1px solid;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
